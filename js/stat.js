@@ -20,8 +20,8 @@ ctx.fillRect(cloudX, cloudY,cloudWidth,cloudHeight);
 
 ctx.fillStyle = "#000";
 ctx.font = "14px PT Mono";   
-ctx.fillText("Ура! Вы победили", 130, 40);
-ctx.fillText("Список результатов", 130, 60);
+ctx.fillText("Ура вы победили", 130, 40);
+ctx.fillText("Список результатов:", 130, 60);
 ctx.textBaseline = "hanging";
     
 
